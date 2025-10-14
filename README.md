@@ -60,8 +60,11 @@ different fare conditions. Thesefindings will be useful in developing strategies
 ### Ticket Booking and Revenue Trends
 
 Analysis of booking data revealed a steady increase in ticket sales from June 22 to July 7, followed by a stable pattern through August, with a significant single-day peak in bookings. Revenue trends closely mirrored booking volumes, confirming a direct correlation between ticket demand and earnings.
-|------------ |------------|
-|![alt text](images/ticket.png) | ![alt text](images/totamount.png) |
+
+| Ticket | Total Amount |
+|--------|-------------|
+| ![alt text](images/ticket.png) | ![alt text](images/totamount.png) |
+
 
 Business Implication:
 
@@ -139,4 +142,5 @@ A 10% increase in occupancy rate has the potential to yield a comparable increas
 However, profitability should not come at the expense of passenger satisfaction or safety. The airline must maintain a balanced approach that combines competitive pricing with consistent service quality.
 
 By adopting a data-driven, customer-centered strategy, the airline can achieve sustainable profitability, operational excellence, and long-term resilience in a highly competitive market.
+
 
